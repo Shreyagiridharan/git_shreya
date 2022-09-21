@@ -1,6 +1,7 @@
 [safe]
 	directory = /home/ec2-user/.git
 	directory = /home/ec2-user/shreya/
+	directory = /home/ec2-user
 [user]
 	nam = Shreyagiridharan
 	name = Shreyagiridharan
